@@ -2,4 +2,4 @@
 
 ## Tipos de condições
 
-- Anotação um
+- Anotação de README
