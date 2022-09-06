@@ -4,7 +4,7 @@ Funcionalidade: Trabalhar com Data Table
 
 Cenario: Cortar bolo de chocolate
 Dado que o usuário tenha alguns  bolos. 
-|Bolo|10|20|30|
+|Bolo|10|
 Quando o usuário corta 2 bolos. 
 Então o usuário verifica quantos bolos restaram inteiros. 
 
