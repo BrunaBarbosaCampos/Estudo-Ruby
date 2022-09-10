@@ -1,4 +1,3 @@
-    
 Dado('que o usuário tenha {int} reais.') do |inteiro1|
     p inteiro1
     @Dinheiro1 = inteiro1
