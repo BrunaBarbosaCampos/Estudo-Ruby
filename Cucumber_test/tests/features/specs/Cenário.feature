@@ -1,6 +1,6 @@
 #language: pt
 
-@Cenário
+@Tag1
 Funcionalidade: Calculo e subtração e soma. 
 
 Cenario: Fazer subtração
@@ -12,7 +12,9 @@ Então o usuário verifica quanto dinheriro restou.
 Cenario: Fazer soma 
 Dado que o usuário tenha 5 carros. 
 Quando o usuário compra mais 2 carros.
-Então o usuário conta quantos usuários tem ao todo. 
+Então o usuário conta quantos usuários tem ao todo.
+
+
 
 
 
