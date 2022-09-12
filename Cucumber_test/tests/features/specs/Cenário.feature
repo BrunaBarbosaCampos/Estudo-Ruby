@@ -1,6 +1,6 @@
 #language: pt
 
-@Cenário
+@Tag1
 Funcionalidade: Calculo e subtração e soma. 
 
 Cenario: Fazer subtração
