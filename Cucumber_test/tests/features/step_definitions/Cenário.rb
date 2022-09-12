@@ -1,5 +1,3 @@
-
-    
 Dado('que o usuário tenha {int} reais.') do |inteiro1|
     p inteiro1
     @Dinheiro1 = inteiro1
@@ -42,4 +40,3 @@ Então('o usuário conta quantos usuários tem ao todo.') do
     expect(@CarroTotal).to eq 7
 
 end
- 
