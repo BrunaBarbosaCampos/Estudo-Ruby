@@ -2,6 +2,6 @@
 
 Funcionalidade: Acesso de usuário através da url
 
-Cenario: Acessar url
-Quando o usuário acessa a url.
-Então o usuário verifica se página está correta.
+Cenario: Acessar url 
+Quando o usuário acessa site através da url.
+Então o usuário verifihca página acessada.
